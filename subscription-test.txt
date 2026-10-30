@@ -1,1 +1,1 @@
-vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=none&type=tcp#TEST-GITHUB-PAGES-V2
+vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=none&type=tcp#TEST-GITHUB-PAGES-V3
